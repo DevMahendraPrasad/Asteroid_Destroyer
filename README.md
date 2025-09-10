@@ -64,6 +64,7 @@ CSS variables in the files control colors and theme (useful for quick “reskinn
 ├─ gemini.html       # Gemini 2.5 Pro themed variant of the game. :contentReference[oaicite:4]{index=4}
 ├─ claude.html       # Claude 3.7 Sonnet themed variant of the game. :contentReference[oaicite:5]{index=5}
 └─ README.md         # (this file)
-Screenshot:
-<img width="1905" height="806" alt="image" src="https://github.com/user-attachments/assets/fe5c6ef0-79a9-4a76-a673-464c7cea07fb" />
+
+<img width="1905" height="806" alt="Screenshot 2025-09-10 204238" src="https://github.com/user-attachments/assets/4bfb90b6-d9db-478f-b49e-43b73758b10e" />
+
 
